@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h1 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 70px;
+    font-style: italic;
+    font-style: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: pink;
+    border: 3px;
+    border-color: bisque;
+    border-style: dotted;
+    border-radius: 5px;
+
+}
+
+h2 {
+    color: black;
+    border: 12px dotted white;
+}
+h3 {
+    color: #fffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    letter-spacing: 10px;
+    text-align: center;
+    border: 12px dotted white;
+
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bird {
+    color: white; 
+}
+
+.mammal {
+    color:gray;
+    font-weight: 700;
+}
+
+.fish{
+    color: rgb(191, 201, 171);
+    font-weight: 700;
+    border: dotted;
+    border-color: rgb(191, 201, 171);
+    background-color: #ffffff;
+    text-decoration: underline
+
+}
+
+#sloth {
+    font-style: italic
+}
+
+#tiger {
+    color: sienna;
+    font-weight: 700
+}
+
+#button {
+    color: #fffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    letter-spacing: 10px;
+}
+
+li {
+    font-size: 18px;
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+
+ul {
+
+}
+
+footer {
+    background-color: aliceblue;
+    color: #black;
+    font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    font-style: italic;
+    font-style: bold;
+    letter-spacing: 10px;
+    text-align: center;
+    padding: 20px 40px;
+}
